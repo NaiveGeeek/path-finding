@@ -1,3 +1,6 @@
+#Project is Hosted on Netlify
+Open [https://path-visualizing.netlify.app](https://path-visualizing.netlify.app) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
